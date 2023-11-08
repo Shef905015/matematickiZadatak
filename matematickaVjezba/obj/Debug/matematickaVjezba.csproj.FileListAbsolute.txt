@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\obj\Debug\matematickaVjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\obj\Debug\matematickaVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\obj\Debug\matematickaVjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\bin\Debug\matematickaVjezba.exe.config
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\bin\Debug\matematickaVjezba.exe
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\bin\Debug\matematickaVjezba.pdb
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\obj\Debug\matematickaVjezba.exe
+C:\Users\ucenik\source\repos\matematickaVjezba\matematickaVjezba\obj\Debug\matematickaVjezba.pdb
